@@ -1,4 +1,4 @@
-
+import os
 YOUR_NAME = os.environ.get("YOUR_NAME, None")
 from .. import *
 from telethon import events
