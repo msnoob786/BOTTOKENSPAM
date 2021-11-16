@@ -1,4 +1,4 @@
-## Owner -[⚡Manisha⚡](https://t.me/MISS_SENORITA1)
+## Owner -[⚡Ravan⚡](https://t.me/w2h_ravan)
 ## Creator -[⚡LegendBoy⚡](https://t.me/The_LegendBoy)
 
 ## ⚡ Deploy on Heroku ⚡
